@@ -13,7 +13,6 @@ export class AppComponent {
   isSave: boolean = true;
   isUpdate: boolean = false;
   taskList: any = [
-    {firstname:'Ashish',mobile:'7894561230', email:'ancd@gmail.com'}
   ]
 
   ngOnInit() {
